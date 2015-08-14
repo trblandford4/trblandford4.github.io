@@ -1998,7 +1998,8 @@
 	#header {
 		position: relative;
 		margin: 0;
-		background-image: url("images/overlay.png"), url("../../images/yosemite.JPG");
+		background-image: url("images/overlay.png"), 
+			url("https://lh3.googleusercontent.com/QvSkFtHNGp6e-BY0lAZi2M8R72DAg9x_0w8UMh7I6Bc=w1993-h1329-no");
 		background-size: auto, cover;
 		background-position: top left, center center;
 		background-repeat: repeat, no-repeat;
